@@ -23,7 +23,7 @@ const jetbrains = JetBrains_Mono({
   display: "swap",
 });
 
-const BASE_URL = "https://davidramalho.dev"; // troque pela sua URL da Vercel depois
+const BASE_URL = "https://portfolio-navy-one-27.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
